@@ -632,7 +632,7 @@ extension MXSegmentedControl {
         public var inset = Inset.zero
         
         /// The seperators color.
-        public var color = UIColor.lightGray
+        public var color = UIColor.clear
         
         /// The separators layers.
         public internal(set) var layers = [CALayer]()
